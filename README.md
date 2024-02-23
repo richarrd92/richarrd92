@@ -4,4 +4,4 @@ I am a junior student, majoring in Computer Science at the University Of Marylan
 
 I am passionate about software engineering and game development
 
-Besides programming in my free time, whether it is for personal or school projects, I also enjoy playing and watching sports, soccer to be specific.
+I enjoy playing soccer and watching all sorts of sports in my free
