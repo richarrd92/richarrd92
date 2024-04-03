@@ -1,7 +1,7 @@
-Hi, i am Richard Maliyetu
+# About Me
+I am currently a junior student at the University Of Maryland Baltimore County (UMBC), majoring in Computer Science. 
+I have a passion for software engineering and game development. 
+In my free time, i enjoys playing soccer and watching various sports.
 
-I am a junior student, majoring in Computer Science at the University Of Maryland Baltimore County (UMBC)
-
-I am passionate about software engineering and game development.
-
-I enjoy playing soccer and watching all sorts of sports in my free time.
+# Note
+school related projects (repositories) are private for school privacy reasons, please contact me for access
