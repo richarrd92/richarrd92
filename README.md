@@ -1,3 +1,3 @@
 # NOTICE
-School-related projects are kept private due to academic integrity concerns. Reach out to get Access
+School-related projects are not publicly available due to concerns regarding academic integrity. Please contact me directly for access.
 
