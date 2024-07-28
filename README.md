@@ -1,3 +1,3 @@
-# NOTICE
-School-related projects are not publicly available due to concerns regarding academic integrity. Please contact me directly for access.
+# WELCOME
+Welcome to my Github. Feel free to contact me via email at richardmaliyetu@gmail.com
 
