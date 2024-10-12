@@ -57,16 +57,16 @@ Several scenarios were tested to ensure correct functionality:
   **Signal handling:** Ensuring that the program terminates gracefully upon receiving a SIGINT signal (via Ctrl+C).
 
 
-**Troubleshooting**
+## Troubleshooting
 
-Common Issues:
+**Common Issues:**
 Unused parameter warning: When compiling, you might see warnings about the signal parameter being unused. This can be ignored 
 
-Random crashes or segmentation faults: These might happen if the deque isn’t initialized correctly, or if memory management is off. Double-check the init_deque and delete_deque functions and make sure that all data is being managed properly.
+**Random crashes or segmentation faults:** These might happen if the deque isn’t initialized correctly, or if memory management is off. Double-check the init_deque and delete_deque functions and make sure that all data is being managed properly.
 
-Threads not terminating properly: Make sure you're using Ctrl+C to stop the program, as it’s set up to terminate threads safely upon receiving a SIGINT.
+**Threads not terminating properly:** Make sure you're using Ctrl+C to stop the program, as it’s set up to terminate threads safely upon receiving a SIGINT.
 
-**References**
+## References
 
 POSIX Threads (pthread) Documentation: Used for creating and managing threads in this project.
 Link: https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
