@@ -33,7 +33,9 @@ To run the test program: **make test**
 
 ## Memory leak tests
 If you want to check for memory issues using valgrind, you can run:
+
 **make main_memcheck** for main program memory leaks
+
 **make test_memcheck** for test program memory leaks 
 
 ### Note: 
