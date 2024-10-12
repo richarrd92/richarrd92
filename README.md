@@ -21,12 +21,14 @@ Before running the project, ensure you have a Linux environment with gcc install
   
 ## Build and Compile:
 To build the project, use the provided Makefile. Simply run: **make main**
+
 This will compile the main program and produce an executable named **deque_program**.
 
 If you want to compile the test program as well, you can run: **make test**
 
 ## Running the Program
 To run the main program: **make main**
+
 To run the test program: **make test**
 
 ## Memory leak tests
