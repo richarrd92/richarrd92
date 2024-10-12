@@ -43,9 +43,13 @@ The main program will run indefinitely until manually stopped with Ctrl+C.
 Several scenarios were tested to ensure correct functionality:
 
   Basic functionality: Ensuring that the producer can enqueue data, and the consumer can dequeue it without errors.
+  
   Randomness: Verifying that data is enqueued and dequeued in random order (either front or rear), as expected.
+  
   Thread Safety: Ensuring that multiple producer and consumer threads can operate without crashing or corrupting data.
+  
   Edge cases: Tested with empty deque operations (e.g., what happens when the consumer tries to dequeue from an empty deque).
+  
   Signal handling: Ensuring that the program terminates gracefully upon receiving a SIGINT signal (via Ctrl+C).
 
 
