@@ -1,3 +1,3 @@
 # WELCOME  
 
-You can contact me at **richardmaliyetu@gmail.com**
+Most repositories are private :)
